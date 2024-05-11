@@ -1,1 +1,5 @@
-## 001 - Day 1 - Beginner - Working with Variables in Python to Manage Data
+# 001 - Day 1 -Beginner - Working with Variables in Python to Manage Data
+
+##Naming Rules
+- Can't start with numbers
+- Use underscores to use multiple words
