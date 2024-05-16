@@ -1,7 +1,7 @@
 # 100-days-of-python
  
 I am working on upskilling my python skills with the hopes of advancing into more advanced topics.
-[100 Days of Code](https -//www.udemy.com/course/100-days-of-code/)
+[100 Days of Code](https://www.udemy.com/course/100-days-of-code/?couponCode=LEADERSALE24B)
 
 
 # Table of Contents
