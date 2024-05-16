@@ -1,69 +1,72 @@
 # 001 - Day 1 -Beginner - Working with Variables in Python to Manage Data
 
-    ##Naming Rules
+    ## Naming Rules
     - Can't start with numbers
     - Use underscores to use multiple words
 
 
 # 002 - Day 2 - Beginner - Understanding Data Types and How to Manipulate Strings
 
-    ##Strings
+    ## Strings
     - Index starts at zero
     - "Hello"[0] --> "H"
 
-    ##Integer
+    ## Integer
     - 123
     - 123_000 underscores help make it readable
 
-    ##Float
+    ## Float
     3.14159
 
-    ##Boolean
+    ## Boolean
     True
     False
 
-    ##Type Check
+    ## Type Check
     type(variable_name) --> int, etc.
 
-    ##Type Conversion
+    ## Type Conversion
     str()
     int()
     float()
 
-    ##Mathematical Operations
+    ## Mathematical Operations
     +   = addition
     -   = subtraction
     *   = multiplication
     /   = Division (results in float)
     **  = To the power of
 
-    ##Order of operations
+    ## Order of operations
     Follows PEMDAS
 
-    ##More operations
+    ## More operations
     //  = Divide & Round to integer
     /=  = Divide byitself
     +=  = Add itself 
     -=  + subtract itself
 
-    ##f-String
+    ## f-String
     allows mix of data types
     f("your score is {score}, your height is {height}")
 
 
 # 003 - Day 3 - Beginner - Control Flow and Logical Operators
 
-    ##if condition:
+    ## If format
+    if condition:
         do this
     else:
         do this
 
+    ## Operators
     =   = checking something
     ==  = Equal to (if scenario)
     !=  = Not equal to
     %   = modulo
 
-    ##if condition1:
+    ## Nested if
+    if condition1:
         if subcondistion:
             do this
         else:
@@ -71,10 +74,33 @@
     else:
         do this
 
-    ##if condition1:
+    # if / elif /else
+    if condition1:
         do a
     elif confition 2:
         do b
     else:
         do this
+
+    ## multiple ifs
+    if condition1:
+        do A
+    if condition 2:
+        do B
+    if condition 3:
+        do C
+
+    ## Multiple Conditions
+    and
+    or
+    not
+
+
+    ## Lower Case formatting
+    combined_names.lower()
+
+
+    ## Count String Instances
+    t = "String".count("t")
+
 
