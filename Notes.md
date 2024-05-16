@@ -53,4 +53,28 @@
 
 # 003 - Day 3 - Beginner - Control Flow and Logical Operators
 
+    ##if condition:
+        do this
+    else:
+        do this
+
+    =   = checking something
+    ==  = Equal to (if scenario)
+    !=  = Not equal to
+    %   = modulo
+
+    ##if condition1:
+        if subcondistion:
+            do this
+        else:
+            do this
+    else:
+        do this
+
+    ##if condition1:
+        do a
+    elif confition 2:
+        do b
+    else:
+        do this
 
