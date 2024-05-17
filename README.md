@@ -8,9 +8,10 @@ I am working on upskilling my python skills with the hopes of advancing into mor
 - Day 1 - Beginner - Working with Variables in Python to Manage Data
 - Day 2 - Beginner - Understanding Data Types and How to Manipulate Strings
 - Day 3 - Beginner - Control Flow and Logical Operators
+- Day 4 - Beginner - Randomisation and Python Lists
 
 # To Be Completed
-- Day 4 - Beginner - Randomisation and Python Lists
+
 - Day 5 - Beginner - Python Loops
 - Day 6 - Beginner - Python Functions & Karel
 - Day 7 - Beginner - Hangman
@@ -38,32 +39,32 @@ I am working on upskilling my python skills with the hopes of advancing into mor
 - Day 29 - Intermediate - Building a Password Manager GUI App with Tkinter
 - Day 30 - Intermediate - Errors, Exceptions and JSON Data
 - Day 31 - Intermediate - Flash Card App Capstone Project
-- Day 32 - Intermediatet+ Send Email (smtplib) & Manage Dates (datetime)
-- Day 33 - Intermediatet API Endpoints & API Parameters - ISS Overhead Notifier
-- Day 34 - Intermediatet API Practice - Creating a GUI Quiz App
-- Day 35 - Intermediatet+ Keys, Authentication & Environment Variables
-- Day 36 - Intermediatet Stock Trading News Alert Project
-- Day 37 - Intermediatet+ Habit Tracking Project
-- Day 38 - Intermediatet+ Workout Tracking Using Google Sheets
-- Day 39 - Intermediatet Capstone Part 1
-- Day 40 - Intermediatet Capstone Part 2
+- Day 32 - Intermediate+ Send Email (smtplib) & Manage Dates (datetime)
+- Day 33 - Intermediate+ API Endpoints & API Parameters - ISS Overhead Notifier
+- Day 34 - Intermediate+ API Practice - Creating a GUI Quiz App
+- Day 35 - Intermediate+ Keys, Authentication & Environment Variables
+- Day 36 - Intermediate+ Stock Trading News Alert Project
+- Day 37 - Intermediate+ Habit Tracking Project
+- Day 38 - Intermediate+ Workout Tracking Using Google Sheets
+- Day 39 - Intermediate+ Capstone Part 1
+- Day 40 - Intermediate+ Capstone Part 2
 - Day 41 - Web Foundation - Introduction to HTML
 - Day 42 - Web Foundation - Intermediate HTML
 - Day 43 - Web Foundation - Introduction to CSS
 - Day 44 - Web Foundation - Intermediate CSS
 - Day 45 - Intermediate+ Web Scraping with Beautiful Soup
-- Day 46 - Intermediatet Create a Spotify Playlist using the Musical Time Machine
-- Day 47 - Intermediatet Create an Automated Amazon Price Tracker
-- Day 48 - Intermediatet Selenium Webdriver Browser and Game Playing Bot
-- Day 49 - Intermediatet+ Automating Job Applications on LinkedIn
-- Day 50 - Intermediatet+ Auto Tinder Swiping Bot
-- Day 51 - Intermediatet Internet Speed Twitter Complaint Bot
-- Day 52 - Intermediatet Instagram Follower Bot
+- Day 46 - Intermediate+ Create a Spotify Playlist using the Musical Time Machine
+- Day 47 - Intermediate+ Create an Automated Amazon Price Tracker
+- Day 48 - Intermediate+ Selenium Webdriver Browser and Game Playing Bot
+- Day 49 - Intermediate+ Automating Job Applications on LinkedIn
+- Day 50 - Intermediate+ Auto Tinder Swiping Bot
+- Day 51 - Intermediate+ Internet Speed Twitter Complaint Bot
+- Day 52 - Intermediate+ Instagram Follower Bot
 - Day 53 - Intermediate+ Web Scraping Capstone - Data Entry Job Automation
-- Day 54 - Intermediatet Introduction to Web Development with Flask
-- Day 55 - Intermediatet HTML & URL Parsing in Flask and the Higher Lower Game
+- Day 54 - Intermediate+ Introduction to Web Development with Flask
+- Day 55 - Intermediate+ HTML & URL Parsing in Flask and the Higher Lower Game
 - Day 56 - Intermediate+ Rendering HTML/Static files and Using Website Templates
-- Day 57 - Intermediatet Templating with Jinja in Flask Applications
+- Day 57 - Intermediate+ Templating with Jinja in Flask Applications
 - Day 58 - Web Foundation Bootstrap
 - Day 59 - Advanced - Blog Capstone Project Part 2 - Adding Styling
 - Day 60 - Advanced - Make POST Requests with Flask and HTML Forms

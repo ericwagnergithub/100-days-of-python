@@ -106,3 +106,27 @@
 
 # Day 4 - Beginner - Randomisation and Python Lists
 
+www.Askpython.com
+
+
+## Random Library
+import random
+random_integer = random.randint(1,10)
+random_float = random.random()
+
+## Modules
+can import other files/variables
+import file_name
+print(file_name.variable_name)
+
+## Lists
+list = [item1, item2]
+always square brackets
+always seperated by commas
+
+https://docs.python.org/3/tutorial/datastructures.html
+
+## Nested List
+list1 = ["A", "B", "C"]
+list2 = ["D", "E", "F"]
+list_all = [list1, list2]
