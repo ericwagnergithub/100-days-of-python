@@ -9,10 +9,9 @@ I am working on upskilling my python skills with the hopes of advancing into mor
 - Day 2 - Beginner - Understanding Data Types and How to Manipulate Strings
 - Day 3 - Beginner - Control Flow and Logical Operators
 - Day 4 - Beginner - Randomisation and Python Lists
+- Day 5 - Beginner - Python Loops
 
 # To Be Completed
-
-- Day 5 - Beginner - Python Loops
 - Day 6 - Beginner - Python Functions & Karel
 - Day 7 - Beginner - Hangman
 - Day 8 - Beginner - Function Parameters & Caesar Cipher

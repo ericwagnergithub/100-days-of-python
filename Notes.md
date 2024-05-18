@@ -130,3 +130,20 @@ https://docs.python.org/3/tutorial/datastructures.html
 list1 = ["A", "B", "C"]
 list2 = ["D", "E", "F"]
 list_all = [list1, list2]
+
+# Day 5 - Beginner - Python Loops
+
+    ## Loops
+    exeucute the same code mutiple times
+
+    For Loop
+
+    ## For loop with lists
+    fruits = ["Apple", "Peach","Pear"]
+    for fruit in fruits:
+        print(fruit)
+    
+    ## For Loop with Range
+    for number in range(min, max, [optional - step]):
+        print(number)
+    
