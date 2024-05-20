@@ -175,3 +175,14 @@ list_all = [list1, list2]
 
 
     ## Flow chart programming
+
+    ## Importing
+    https://docs.python.org/3/reference/import.html
+    import random (imports the whole module)
+    from handman_words import word_list (imports part of the module)
+
+# Day 8 - Beginner - Function Parameters & Caesar Cipher
+
+
+def my_function():
+    do this
