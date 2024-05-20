@@ -113,6 +113,7 @@ www.Askpython.com
 import random
 random_integer = random.randint(1,10)
 random_float = random.random()
+random_choice = random.choise(list/string)
 
 ## Modules
 can import other files/variables
@@ -147,3 +148,30 @@ list_all = [list1, list2]
     for number in range(min, max, [optional - step]):
         print(number)
     
+# Day 6 - Beginner - Python Functions & Karel
+
+    ## Functions
+    https://docs.python.org/3/library/functions.html 
+    function()
+
+    repeatable code
+
+    def starts a function
+
+    def my_function():
+        print("Hello")
+        print("Bye")
+    
+    my_function()
+
+
+    ## While Loops
+
+    while something_is_true:
+        do something
+
+    
+# Day 7 - Beginner - Hangman
+
+
+    ## Flow chart programming

@@ -10,9 +10,10 @@ I am working on upskilling my python skills with the hopes of advancing into mor
 - Day 3 - Beginner - Control Flow and Logical Operators
 - Day 4 - Beginner - Randomisation and Python Lists
 - Day 5 - Beginner - Python Loops
+- Day 6 - Beginner - Python Functions & Karel
 
 # To Be Completed
-- Day 6 - Beginner - Python Functions & Karel
+
 - Day 7 - Beginner - Hangman
 - Day 8 - Beginner - Function Parameters & Caesar Cipher
 - Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction
