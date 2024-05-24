@@ -184,5 +184,15 @@ list_all = [list1, list2]
 # Day 8 - Beginner - Function Parameters & Caesar Cipher
 
 
-def my_function():
-    do this
+def my_function(variable, variable2):
+    do this with variable
+    print(variable)
+
+variable = parameter
+actual value = argument
+
+
+## positional argumeents
+    def function (a, b, c)
+
+can do function (c = 1, b = 2, 1 = 3) to do out of order
