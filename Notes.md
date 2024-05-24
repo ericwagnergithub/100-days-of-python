@@ -196,3 +196,60 @@ actual value = argument
     def function (a, b, c)
 
 can do function (c = 1, b = 2, 1 = 3) to do out of order
+
+# Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction
+
+## Dictionaries
+key = word
+value = defintiion
+
+{Key: Value}
+{"Bug": "An Error in code"
+"Python": "A Snake"}
+
+programming_dictionary = {
+    "Bug": "An error in a program that prevents the program from running as expected.",
+    "Function": "A piece of code that you can easily call over and over again.",
+    "Loop": "The action of doing something over and over again.",
+}
+
+# Retriving Items from dictionary
+print(programming_dictionary["Bug"])
+
+#Add items to dictionary
+programming_dictionary["Loop"] = "The action of doing something over and over again."
+print(programming_dictionary)
+
+#create blank dictionary
+empty_dictionary = {}
+
+#Wipe existing dictionary
+programming_dictionary = {}
+print(programming_dictionary)
+
+#Edit an item in a dictionary
+programming_dictionary["Bug"] = "A moth in your computer."
+print(programming_dictionary)
+
+#loop through a dictionary
+for key in programming_dictionary:
+    print(key)
+    print(programming_dictionary[key])
+
+##Nesting
+
+{
+key: [List]
+key2 :{Dictionary}
+
+}
+
+#Nesting a dictionary in a list
+#useful if index needed
+[{
+    Key: [List],    
+    Key2: {Dict}
+},
+{
+    Key: Value,
+    Key2: Value
