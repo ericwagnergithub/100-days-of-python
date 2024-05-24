@@ -13,10 +13,9 @@ I am working on upskilling my python skills with the hopes of advancing into mor
 - Day 6 - Beginner - Python Functions & Karel
 - Day 7 - Beginner - Hangman
 - Day 8 - Beginner - Function Parameters & Caesar Cipher
+- Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction
 
 # To Be Completed
-
-- Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction
 - Day 10 - Beginner - Functions with Outputs
 - Day 11 - Beginner - The Blackjack Capstone Project
 - Day 12 - Beginner - Scope & Number Guessing Game
