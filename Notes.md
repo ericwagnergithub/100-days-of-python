@@ -213,7 +213,7 @@ programming_dictionary = {
     "Loop": "The action of doing something over and over again.",
 }
 
-# Retriving Items from dictionary
+## Retriving Items from dictionary
 print(programming_dictionary["Bug"])
 
 #Add items to dictionary
@@ -253,3 +253,27 @@ key2 :{Dictionary}
 {
     Key: Value,
     Key2: Value
+
+# Day 10 - Beginner - Functions with Outputs
+
+def my_function():
+    result = 3 * 2
+    return result
+
+return gives the outputs
+
+## Function with Outputs
+def format_name(f_name, l_name):
+    formatted_f_name = f_name.title()
+    formatted_l_name = l_name.title()
+
+    return f"{formatted_f_name} {formatted_l_name}"
+
+print(format_name("FIRST","LAST"))
+
+## Docstrings
+documentation for user-crerated functions
+
+def my_function(input)
+"""This is my function. There is one input"""
+
